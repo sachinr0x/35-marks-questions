@@ -1,1 +1,2 @@
 # 35-marks-questions
+This repository contains a number of questions for trainees with their solutions. Some of the questions will not be having the question or test cases in comments, so what you can do is: copy the code and paste it in any AI model giving the prompt to frame the question and test cases for it. Also no matter if you are a python or java trainee, questions would be similar for all.
